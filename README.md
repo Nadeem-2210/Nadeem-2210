@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nadeem-2210
-- 🌱 I’m currently learning Data Science 
+- 🌱 Learning and Exploring Data Scinece and AI tools and technologies 
 - 📫 Reach me at - nadeemaehmad2210@gmail.com
 
 <!---
